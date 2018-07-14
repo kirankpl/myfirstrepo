@@ -1,0 +1,18 @@
+#include <stdio.h>
+#include <math.h>
+
+/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+
+int main(int argc, char *argv[]) {
+	printf("\n%f",ceil(3.6));
+	printf("\n%f",ceil(3.3));
+	printf("\n%f",floor(3.6));
+	printf("\n%f",floor(3.2));
+	printf("\n%f",sqrt(16));
+	printf("\n%f",sqrt(7));
+	printf("\n%f",pow(2,4));
+	printf("\n%f",pow(3,3));
+	printf("\n%d",abs(-12));
+	return 0;
+}
+
